@@ -197,19 +197,6 @@ corpus          patterns        responses
 
 ---
 
-# Comparison: Chat vs IDE Integration
-
-| Feature | Chat Assistant | IDE Integration |
-|---------|----------------|-----------------|
-| **Context** | Limited to conversation | Full project awareness |
-| **Integration** | Manual copy/paste | Seamless workflow |
-| **Scope** | Broad discussions | Code-focused |
-| **Learning** | Concepts & architecture | Syntax & patterns |
-| **Speed** | Slower iteration | Real-time assistance |
-| **Best For** | Planning & research | Active development |
-
----
-
 # How We Can Use AI Tools
 
 ---
