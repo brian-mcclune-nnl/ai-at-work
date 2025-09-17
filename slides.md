@@ -181,35 +181,19 @@ corpus          patterns        responses
 
 ---
 
-# 3. Specialized Development Tools
+# 3. Additional AI Development Tools
 
-**Code Generation & Analysis:**
-- **Cursor**: AI-powered code editor
-- **Replit Ghostwriter**: Cloud IDE with AI
-- **Tabnine**: Advanced code completion
+**AI-Powered Editors & Code Completion:**
+- **Cursor**: AI-first code editor with chat integration
+- **Tabnine**: Advanced code completion and suggestions
 
-**Documentation & Communication:**
-- **Notion AI**: Enhanced documentation
-- **Grammarly**: Writing assistance
-- **Jasper**: Content generation
-
-**DevOps & Infrastructure:**
-- **GitHub Actions AI**: Workflow generation
-- **Infrastructure as Code assistants**
-
----
-
-# 4. Command Line & Terminal Tools
-
-**Examples:** 
+**Command Line & Terminal:**
 - **GitHub Copilot CLI**: Natural language to shell commands
-- **Warp AI**: AI-powered terminal
-- **Fig**: Command completion and explanation
+- **Aider**: AI pair programming in terminal
+- **Claude Code**: AI coding assistant for terminal workflows
 
-**Benefits:**
-- Translate plain English to complex commands
-- Explain unfamiliar command syntax
-- Generate scripts and automation
+**Enterprise & Productivity:**
+- **MS 365 Copilot**: Integrated productivity AI across Office apps
 
 ---
 
