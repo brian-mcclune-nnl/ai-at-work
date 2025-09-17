@@ -244,7 +244,7 @@ corpus          patterns        responses
 **📝 Technical Writing:**
 - README files and setup instructions
 - API documentation and examples
-- Architecture decision records (ADRs)
+- User manual content
 
 </div>
 
@@ -254,15 +254,6 @@ corpus          patterns        responses
 - Explain technical concepts to non-technical stakeholders
 - Create status updates and progress reports
 - Generate meeting agendas and summaries
-
-</div>
-
-<div style="flex: 1;">
-
-**🎯 Government-Specific:**
-- Compliance documentation assistance
-- Security review checklists
-- Audit trail documentation
 
 </div>
 
@@ -324,9 +315,10 @@ Production Code → Automated Workflows → Critical Systems
 - AI/model developers are increasingly focused on responsible and ethical sourcing
 - Major companies are investing in transparent data provenance practices
 
-**🤔 For Skeptics - Start Here:**
-- **Discussion Only**: Use AI for brainstorming and learning, not code generation
-- **Ask for Sources**: "Where can I verify this information?" and cross-check responses
+**� Ask Follow-up Questions:**
+- "What sources were used to generate this answer?"
+- "Can you provide links to sources?"
+- "Where can I verify this information?"
 
 ---
 
@@ -404,25 +396,16 @@ Production Code → Automated Workflows → Critical Systems
 - What are your biggest concerns about AI adoption?
 - How can we establish trust and confidence in our team?
 
-**Remember:** This is a journey, not a destination. We'll learn and adapt together.
+**Remember:** This is a journey, not a destination!
 
 ---
 
-# Resources & Contact
+# Resources
 
-**Documentation:**
-- Internal AI Guidelines: *[Link to be added]*
-- Approved Tools List: *[Link to be added]*
-- Security Requirements: *[Link to be added]*
+- CP-207: Corporate Policy for Use of Generative Artificial Intelligence
+- AI CORE: Artificial Intelligence Centralized Online REsource SharePoint site
 
-**Training Materials:**
-- AI Fundamentals for Developers
-- Prompt Engineering Best Practices  
-- Government AI Ethics Guidelines
-
-**Questions?** Feel free to reach out for guidance on responsible AI adoption.
-
-*Let's build the future of government software development together.*
+**Questions?** Feel free to reach out!
 
 ---
 
@@ -463,7 +446,7 @@ Production Code → Automated Workflows → Critical Systems
 
 **Production & Security:**
 - Security review and vulnerability assessment
-- Compliance with government regulations
+- Compliance with policies, instructions, and manuals
 - System integration and deployment strategies
 
 ---
