@@ -65,19 +65,55 @@ corpus          patterns        responses
 
 ---
 
-# What AI Can and Cannot Do
+# AI Code Generation & Assistance
 
-**✅ AI Excels At:**
-- Pattern recognition and text generation
-- Code completion and documentation
-- Rapid prototyping and exploration
-- Explaining complex concepts
+**Current Capabilities:**
+- Generate functional code across programming languages
+- Provide context-aware completions with project understanding
+- Convert between languages and scientific computing libraries
+- Create comprehensive documentation, tests, and API references
+- Implement complex algorithms from research papers
+- Generate numerical analysis and simulation code
 
-**❌ AI Limitations:**
-- No real understanding or consciousness  
-- Can generate plausible but incorrect information
-- Limited by training data (knowledge cutoffs)
-- Cannot execute code or access real-time data directly
+---
+
+# AI Autonomous Actions (Emerging)
+
+**What's Happening Now:**
+- Execute code in sandboxed environments to test solutions
+- Complete multi-step projects with development tools
+- GitHub agents: Assigned to issues, create PRs automatically
+- End-to-end problem solving: Requirements → Implementation
+- Create data processing pipelines and visualization workflows
+- Translate mathematical equations into optimized code
+
+---
+
+# Where Human Oversight is Critical
+
+**Scientific Validation:**
+- Ensuring computational accuracy and domain correctness
+- Verifying algorithm implementation matches theory
+- Validating results against known benchmarks
+
+**Production & Security:**
+- Security review and vulnerability assessment
+- Compliance with government regulations
+- System integration and deployment strategies
+
+---
+
+# Human Expertise Still Essential
+
+**Research & Domain Knowledge:**
+- Understanding experimental design and hypothesis testing
+- Interpreting results within scientific context
+- Making decisions about methodology and approach
+
+**Performance & Optimization:**
+- Hardware-specific tuning and scalability decisions
+- Resource allocation and computational efficiency
+- Real-world performance under production loads
 
 ---
 
