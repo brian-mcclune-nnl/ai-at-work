@@ -27,8 +27,8 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 1. 🤖 What is AI? (10,000-foot view)
 2. 🛠️ Types of AI Tools Available
-3. 💡 How We Can Use Them
-4. ⚠️ Addressing Concerns & Best Practices
+3. ⚠️ Addressing Concerns & Best Practices
+4. 💡 How We Can Use Them
 5. 🚀 Next Steps for Our Team
 
 ---
@@ -142,6 +142,46 @@ corpus          patterns        responses
 
 **Enterprise & Productivity:**
 - **MS 365 Copilot**: Integrated productivity AI across Office apps
+
+---
+
+# Addressing Concerns & Best Practices
+
+---
+
+# 1. Am I risking leaking data? What am I allowed to use?
+
+**� Data Protection Guidelines:**
+- Use private (NNPP) services where possible and appropriate
+- Do not enter Program information into public services
+- See CP-207 (Corporate Policy for Use of Generative Artificial Intelligence) for more information
+
+---
+
+# 2. How do I know the AI is right? What about hallucinations?
+
+**🔍 Always Verify:**
+- Treat AI output as a starting point, not final solution
+- Test all AI-generated code thoroughly
+- Maintain coding standards regardless of source
+
+**� Ask Follow-up Questions:**
+- "What sources inform this recommendation?"
+- "Can you provide documentation links?"
+- "What are the potential drawbacks of this approach?"
+
+---
+
+# 3. Is this stealing? What about data provenance?
+
+**⚖️ Ethical Considerations:**
+- AI/model developers are increasingly focused on responsible and ethical sourcing
+- Major companies are investing in transparent data provenance practices
+
+**� Ask Follow-up Questions:**
+- "What sources were used to generate this answer?"
+- "Can you provide links to sources?"
+- "Where can I verify this information?"
 
 ---
 
@@ -282,46 +322,6 @@ Production Code → Automated Workflows → Critical Systems
 
 ---
 
-# Addressing Concerns & Best Practices
-
----
-
-# 1. Am I risking leaking data? What am I allowed to use?
-
-**� Data Protection Guidelines:**
-- Use private (NNPP) services where possible and appropriate
-- Do not enter Program information into public services
-- See CP-207 (Corporate Policy for Use of Generative Artificial Intelligence) for more information
-
----
-
-# 2. How do I know the AI is right? What about hallucinations?
-
-**🔍 Always Verify:**
-- Treat AI output as a starting point, not final solution
-- Test all AI-generated code thoroughly
-- Maintain coding standards regardless of source
-
-**� Ask Follow-up Questions:**
-- "What sources inform this recommendation?"
-- "Can you provide documentation links?"
-- "What are the potential drawbacks of this approach?"
-
----
-
-# 3. Is this stealing? What about data provenance?
-
-**⚖️ Ethical Considerations:**
-- AI/model developers are increasingly focused on responsible and ethical sourcing
-- Major companies are investing in transparent data provenance practices
-
-**� Ask Follow-up Questions:**
-- "What sources were used to generate this answer?"
-- "Can you provide links to sources?"
-- "Where can I verify this information?"
-
----
-
 # Looking Ahead
 
 ---
@@ -342,8 +342,8 @@ Production Code → Automated Workflows → Critical Systems
 
 <div style="flex: 1;">
 
-**For Skeptics:** 
-- Try asking ChatGPT or Claude to explain a technology concept
+**For the skeptical** 
+- Try asking ChatGPT or Spyglass to explain a technology concept
 - Request sources and verify the information independently
 - Start with learning, not code generation
 
@@ -351,16 +351,16 @@ Production Code → Automated Workflows → Critical Systems
 
 <div style="flex: 1;">
 
-**For Curious Colleagues:**
-- Install GitHub Copilot or similar IDE integration
-- Use it for generating comments and documentation first
+**For the curious**
+- Install GitHub Copilot on NNL Science
 - Practice with personal/learning projects before work code
+- Use it for generating comments and documentation first
 
 </div>
 
 <div style="flex: 1;">
 
-**For Early Adopters:**
+**For Early Adopters**
 - Share your experiences and help establish team guidelines  
 - Mentor colleagues who want to learn
 - Help identify the most valuable use cases for our work
