@@ -346,20 +346,36 @@ Production Code → Automated Workflows → Critical Systems
 
 # Getting Started Today
 
+<div style="display: flex; gap: 1.5rem;">
+
+<div style="flex: 1;">
+
 **For Skeptics:** 
 - Try asking ChatGPT or Claude to explain a technology concept
 - Request sources and verify the information independently
 - Start with learning, not code generation
+
+</div>
+
+<div style="flex: 1;">
 
 **For Curious Colleagues:**
 - Install GitHub Copilot or similar IDE integration
 - Use it for generating comments and documentation first
 - Practice with personal/learning projects before work code
 
+</div>
+
+<div style="flex: 1;">
+
 **For Early Adopters:**
 - Share your experiences and help establish team guidelines  
 - Mentor colleagues who want to learn
 - Help identify the most valuable use cases for our work
+
+</div>
+
+</div>
 
 ---
 
