@@ -7,8 +7,8 @@ backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
-# AI at Work
-## Practical AI Adoption for Government Engineers
+# AI at NNL
+## Practical AI Adoption in IST
 
 **Navigating the Future of Software Development**
 
@@ -16,7 +16,6 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 # About This Discussion
 
-- **Our Context**: Government software development organization
 - **Current State**: Slow but steady AI adoption
 - **Available Tools**: Chat assistants, IDE integration expanding
 - **Our Team**: Mix of early adopters, skeptics, and concerned colleagues
