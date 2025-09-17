@@ -219,58 +219,106 @@ corpus          patterns        responses
 
 # 2. Planning & Architecture
 
+<div style="display: flex; gap: 1.5rem;">
+
+<div style="flex: 1;">
+
 **🏗️ System Design:**
 - Brainstorm architectural approaches
 - Evaluate trade-offs between solutions
 - Generate technical specifications
+
+</div>
+
+<div style="flex: 1;">
 
 **📋 Project Planning:**
 - Break down complex features into tasks
 - Estimate development effort
 - Create implementation roadmaps
 
+</div>
+
+<div style="flex: 1;">
+
 **🔍 Code Reviews:**
 - Identify potential issues in existing code
 - Suggest refactoring opportunities
 - Explain complex code sections to team members
 
+</div>
+
+</div>
+
 ---
 
 # 3. Active Development
+
+<div style="display: flex; gap: 1.5rem;">
+
+<div style="flex: 1;">
 
 **⌨️ Code Generation:**
 - Boilerplate code and templates
 - Unit test generation
 - Configuration file creation
 
+</div>
+
+<div style="flex: 1;">
+
 **🐛 Debugging:**
 - Analyze error messages and stack traces
 - Suggest debugging approaches
 - Generate test cases to reproduce issues
+
+</div>
+
+<div style="flex: 1;">
 
 **🔄 Refactoring:**
 - Modernize legacy code patterns
 - Improve code readability
 - Optimize performance bottlenecks
 
+</div>
+
+</div>
+
 ---
 
 # 4. Documentation & Communication
+
+<div style="display: flex; gap: 1.5rem;">
+
+<div style="flex: 1;">
 
 **📝 Technical Writing:**
 - README files and setup instructions
 - API documentation and examples
 - Architecture decision records (ADRs)
 
+</div>
+
+<div style="flex: 1;">
+
 **💬 Team Communication:**
 - Explain technical concepts to non-technical stakeholders
 - Create status updates and progress reports
 - Generate meeting agendas and summaries
 
+</div>
+
+<div style="flex: 1;">
+
 **🎯 Government-Specific:**
 - Compliance documentation assistance
 - Security review checklists
 - Audit trail documentation
+
+</div>
+
+</div>
 
 ---
 
