@@ -347,115 +347,38 @@ Production Code → Automated Workflows → Critical Systems
 
 ---
 
-# Common Concerns in Our Organization
+# 1. Am I risking leaking data? What am I allowed to use?
 
-**🔐 Security & Privacy**
-- "What data is being sent to AI services?"
-- "Can our proprietary code be exposed?"
-
-**📊 Quality & Reliability**  
-- "How do we know the AI output is correct?"
-- "What about hallucinations and errors?"
-
-**⚖️ Ethics & Responsibility**
-- "Are we replacing human developers?"
-- "What about data provenance and bias?"
-
-**📝 Compliance**
-- "Does this meet our government standards?"
-- "What about audit trails and accountability?"
+**� Data Protection Guidelines:**
+- Use private (NNPP) services where possible and appropriate
+- Do not enter Program information into public services
+- See CP-207 (Corporate Policy for Use of Generative Artificial Intelligence) for more information
 
 ---
 
-# Security & Privacy Best Practices
-
-**🛡️ Data Protection:**
-- Use tools that process data locally when possible
-- Review terms of service and data handling policies
-- Avoid sharing sensitive/classified information
-- Consider on-premises or government cloud solutions
-
-**🔒 Code Security:**
-- Never share proprietary algorithms or sensitive logic
-- Use AI for generic patterns, not business-specific code
-- Implement code review processes for AI-generated code
-- Sanitize examples before sharing with external AI
-
-**✅ Approved Tools:** Work with IT security to establish approved AI tools list
-
----
-
-# Quality & Reliability Guidelines
+# 2. How do I know the AI is right? What about hallucinations?
 
 **🔍 Always Verify:**
 - Treat AI output as a starting point, not final solution
 - Test all AI-generated code thoroughly
-- Have human review for critical systems
 - Maintain coding standards regardless of source
 
-**📚 Request Sources:**
-- Ask AI: "What sources inform this recommendation?"
+**� Ask Follow-up Questions:**
+- "What sources inform this recommendation?"
 - "Can you provide documentation links?"
 - "What are the potential drawbacks of this approach?"
 
-**🧪 Validation Process:**
-```
-AI Suggestion → Human Review → Testing → Integration
-```
-
 ---
 
-# Responsible Adoption Framework
+# 3. Is this stealing? What about data provenance?
 
-**For Skeptics - Start Here:**
-1. **Discussion Only**: Use AI for brainstorming and learning
-2. **Ask for Sources**: "Where can I verify this information?"
-3. **Compare Options**: "What are alternatives to this approach?"
-4. **Incremental Trust**: Build confidence through low-stakes usage
+**⚖️ Ethical Considerations:**
+- AI/model developers are increasingly focused on responsible and ethical sourcing
+- Major companies are investing in transparent data provenance practices
 
-**For Early Adopters - Proceed Carefully:**
-1. **Set Boundaries**: Define what you will/won't use AI for
-2. **Document Decisions**: Track when and why you use AI assistance
-3. **Share Learning**: Help team understand effective practices
-4. **Mentor Others**: Support colleagues' adoption journey
-
----
-
-# Addressing Specific Concerns
-
-**💼 "AI Will Replace Developers"**
-- AI augments human capabilities, doesn't replace judgment
-- Complex problem-solving still requires human expertise
-- Focus shifts to higher-level architecture and user needs
-
-**🤖 "AI Code is Low Quality"**
-- Like any tool, quality depends on how you use it
-- AI excels at boilerplate, struggles with business logic
-- Human oversight remains essential
-
-**📋 "Compliance Issues"**  
-- Work with legal/compliance teams to establish guidelines
-- Document AI usage in development processes
-- Maintain human accountability for all decisions
-
----
-
-# Government-Specific Considerations
-
-**🏛️ Regulatory Compliance:**
-- Ensure AI tools meet your organization's security standards
-- Maintain audit trails for AI-assisted development
-- Consider FISMA, FedRAMP, and other relevant frameworks
-
-**📝 Documentation Requirements:**
-- Record when AI assistance was used in development
-- Maintain human authorship and responsibility
-- Include AI usage in technical documentation
-
-**🤝 Public Trust:**
-- Be transparent about AI usage in public-facing systems
-- Prioritize reliability and accountability
-- Maintain human oversight for citizen-facing services
+**🤔 For Skeptics - Start Here:**
+- **Discussion Only**: Use AI for brainstorming and learning, not code generation
+- **Ask for Sources**: "Where can I verify this information?" and cross-check responses
 
 ---
 
