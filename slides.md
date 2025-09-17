@@ -71,7 +71,7 @@ corpus          patterns        responses
 
 # 1. Chat-Based Assistants
 
-**Examples:** ChatGPT, Claude, Gemini, Copilot Chat
+**Examples:** ChatGPT, Claude, Gemini, Spyglass
 
 <div style="display: flex; gap: 2rem;">
 
@@ -101,7 +101,7 @@ corpus          patterns        responses
 
 # 2. IDE-Integrated Assistants  
 
-**Examples:** GitHub Copilot, Codeium, Amazon CodeWhisperer
+**Examples:** GitHub Copilot, Continue
 
 <div style="display: flex; gap: 2rem;">
 
@@ -152,9 +152,9 @@ corpus          patterns        responses
 # 1. Learning & Research Phase
 
 **🎓 For New Technologies:**
-- "Explain microservices architecture for a .NET developer"
-- "What are the security implications of GraphQL?"
-- "Compare authentication approaches for government applications"
+- "Compare options for validating a JSON schema"
+- "Discuss alternatives for inter-process communication for HPC applications"
+- "Explain microservices architecture for a [Fortran|Java|Python|C++] developer"
 
 **📚 Documentation & Standards:**
 - Generate API documentation templates
