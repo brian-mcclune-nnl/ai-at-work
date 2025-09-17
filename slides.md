@@ -125,17 +125,29 @@ corpus          patterns        responses
 
 **Examples:** ChatGPT, Claude, Gemini, Copilot Chat
 
+<div style="display: flex; gap: 2rem;">
+
+<div style="flex: 1;">
+
 **Characteristics:**
 - Conversational interface in web browser or app
 - Good for: Research, brainstorming, explaining concepts
 - Requires manual copy/paste for code integration
 - Often has access to broader knowledge base
 
+</div>
+
+<div style="flex: 1;">
+
 **Best Use Cases:**
 - Architectural discussions
-- Code review and debugging help  
+- Code review and debugging help
 - Learning new technologies
 - Documentation and explanation
+
+</div>
+
+</div>
 
 ---
 
@@ -143,17 +155,29 @@ corpus          patterns        responses
 
 **Examples:** GitHub Copilot, Codeium, Amazon CodeWhisperer
 
+<div style="display: flex; gap: 2rem;">
+
+<div style="flex: 1;">
+
 **Characteristics:**
 - Direct integration with your development environment
 - Real-time code suggestions and autocompletion
 - Context-aware of your current project
 - Seamless workflow integration
 
+</div>
+
+<div style="flex: 1;">
+
 **Best Use Cases:**
 - Code completion while typing
 - Generating boilerplate code
 - Writing unit tests
 - Refactoring assistance
+
+</div>
+
+</div>
 
 ---
 
